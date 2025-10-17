@@ -3,5 +3,4 @@ numpy==1.26.4
 pillow==11.0.0
 streamlit
 rich
-
-
+tornado==6.4.1
