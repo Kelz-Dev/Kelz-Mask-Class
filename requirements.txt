@@ -1,6 +1,9 @@
+numpy>=1.26.0,<2.2
 tensorflow-cpu==2.20.0
-numpy==1.26.4
-pillow==11.0.0
+keras==3.10.0
+h5py>=3.11.0
+pandas
 streamlit
-rich
-tornado==6.4.1
+Pillow
+scikit-learn
+matplotlib
